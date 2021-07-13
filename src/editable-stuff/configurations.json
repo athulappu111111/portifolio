@@ -1,0 +1,48 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#E73C7E, #23A6D5, #23D5AB, #893FA6",
+  "FirstName": "ATHUL",
+  "MiddleName": "",
+  "LastName": "K",
+  "devDesc": "Passionate about changing the world with technology.",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/athulappu111111/",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/athul.ajith.7545/",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/_athulappu/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/athulk111/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": false,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "_athulappu",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "Hello! My name is Athul and I am a budding Software Engineer from A J INSTITUTE OF ENGINEERING AND TECHNOLOGY in Visvesvaraya Technological University. I will be graduating with my Bachelor's degree in Computer Science Engineering in Augest of 2021. I interned as a Software Engineer at Suven Consultants & Technology Pvt. Ltd, and I cannot wait for my next journey. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering!",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "athulappu111111",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 2,
+  "showNavigationbar": true,
+  "showBlog": false
+}
