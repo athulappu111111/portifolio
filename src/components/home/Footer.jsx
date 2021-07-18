@@ -24,7 +24,7 @@ import {
     };
 
   return (
-    <div id="contact" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'#f7f7f7'}}>
+    <div id="contact" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'white'}}>
     <div className="container container-fluid">
           <div className="d-inline align-self-center">
           <h2 className="display-4 pb-3 text-center">Get In Touch</h2>
@@ -51,7 +51,7 @@ import {
               </a>
             ))}
          */}
-    <footer style={{backgroundColor:'#f7f7f7'}} className="mt-auto py-3 text-center">
+    <footer style={{backgroundColor:'white'}} className="mt-auto py-3 text-center">
       {/* <strong> &copy; 2019 </strong>*/}
       <i className="fas fa-code"></i> with <i className="fas fa-heart"></i> by{" "}
       <a

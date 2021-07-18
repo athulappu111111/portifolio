@@ -9,7 +9,7 @@ const divStyle = {
 };
 const Skills = () => {
 return (
-    <div id="skills" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'#f7f7f7'}}>
+    <div id="skills" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'white'}}>
       <div className="container container-fluid">
         
             {/* <div className="col-5 d-none d-lg-inline align-self-center">
@@ -40,16 +40,16 @@ return (
               </div>
               <div className="col">
               <br/>
-                <p className="lead">Java
+                <p className="lead">HTML/CSS
                 <ProgressBar now={90} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
-                <p className="lead">HTML/CSS
+                <p className="lead">SQL
                 <ProgressBar now={85} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
                 <p className="lead">C/C++
                   <ProgressBar now={80} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                <p className="lead">SQL
+                <p className="lead">Java
                 <ProgressBar now={75} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
                 <p className="lead">Python

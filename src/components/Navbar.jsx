@@ -75,7 +75,15 @@ const Navbar = (props) => {
               className="nav-link lead"
               href={process.env.PUBLIC_URL + "/#leadership"}
             >
-              <b>Activity</b>
+           <b>Activity</b>
+            </a>
+          </li>
+          <li className="nav-item">
+            <a
+              className="nav-link lead"
+              href={process.env.PUBLIC_URL + "/#Certificates"}
+            >
+              <b>Certificates</b>
             </a>
           </li>
           <li className="nav-item">

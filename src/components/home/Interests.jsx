@@ -19,7 +19,7 @@ import {
   };
 const Interests = () => {
   return (
-    <div id="interests" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'white'}}>
+    <div id="interests" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'#f7f7f7'}}>
       <div className="container container-fluid">
         <div className="row">
             <div className="col d-lg-inline align-self-center">
@@ -33,14 +33,14 @@ const Interests = () => {
                 <img src="https://img.icons8.com/nolan/128/light.png"/>
                 <p className="lead text-center">
                   Every morning, I begin my day with money control articles.
-                  Read the latest business, financial news on Moneycontrol. Manage your finance with our online Investment Portfolio. If i get a better move i will take an entry.
+                  Read the latest business, financial news on Moneycontrol and read articles related to Technology I always try to keep updated with latest Technology.
                 </p>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center" style={{fontSize:'28px'}}>Stock Market</p>
                 <img src="https://img.icons8.com/nolan/64/stock-share.png"/>
                 <p className="lead text-center">
-                There is an old expression in business that, if you fail to plan, you plan to fail. It may sound glib, but people that are serious about being successful, including traders. Trade on differnt instruments and make profits Safer and consistantly.
+                There is an old expression in business that, if you fail to plan, you plan to fail. It may sound glib, but people that are serious about being successful, including traders. I Trade on differnt instruments listed in Indian market and make profits Safer and consistantly.
                 </p>
                 </div>
                 <div className="col text-center">
